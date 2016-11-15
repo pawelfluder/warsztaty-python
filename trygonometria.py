@@ -26,5 +26,5 @@ def cos(x):
     else:
         return False
 
-print(sin(45))
-print(cos(45))
+def tan(x)
+    return sin(x) / cos(x)
